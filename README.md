@@ -1,4 +1,4 @@
-# repo-1
+# utility-core
 
 [![Maven Central](https://img.shields.io/maven-central/v/io.github.rajparsaniya/utility-core.svg?style=plastic)](https://search.maven.org/artifact/io.github.rajparsaniya/utility-core)
 ##### Overview
