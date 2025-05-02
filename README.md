@@ -19,3 +19,33 @@ The Utility Core library provides a set of utility classes intended to streamlin
 ```
 implementation group: 'io.github.rajparsaniya', name: 'utility-core', version: '1.0.0'
 ```
+* Gradle (short)
+```
+implementation 'io.github.rajparsaniya:utility-core:1.0.0'
+```
+* Gradle (kotlin)
+```
+implementation("io.github.rajparsaniya:utility-core:1.0.0")
+```
+* sbt
+```
+libraryDependencies += "io.github.rajparsaniya" % "utility-core" % "1.0.0"
+```
+* ivy
+```
+<dependency org="io.github.rajparsaniya" name="utility-core" rev="1.0.0"/>
+```
+* grape
+```
+@Grapes(
+      @Grab(group='io.github.rajparsaniya', module='utility-core', version='1.0.0')
+  )
+```
+* leiningen
+```
+[io.github.rajparsaniya/utility-core "1.0.0"]
+```
+* buildr
+```
+'io.github.rajparsaniya:utility-core:jar:1.0.0'
+```
