@@ -18,7 +18,7 @@ Add **Utility Core** to your project using your preferred build tool:
     <version>1.0.0</version>
 </dependency>
 ```
-- ** Gradle **
+- **Gradle**
 - Add the following to your `build.gradle` dependencies block
 ```
 implementation group: 'io.github.rajparsaniya', name: 'utility-core', version: '1.0.0'
