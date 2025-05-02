@@ -10,7 +10,7 @@ The Utility Core library provides a set of utility classes intended to streamlin
 Add **Utility Core** to your project using your preferred build tool:
 
 - **Apache Maven**
-  Add the following dependency to your `pom.xml`  
+- Add the following dependency to your `pom.xml`  
 ```
 <dependency>
     <groupId>io.github.rajparsaniya</groupId>
@@ -24,7 +24,10 @@ Add **Utility Core** to your project using your preferred build tool:
 ```
 implementation group: 'io.github.rajparsaniya', name: 'utility-core', version: '1.0.0'
 ```
-* Gradle-short (Add the short-form dependency in your ```build.gradle```)
+
+
+- **Gradle-short**
+- Add the short-form dependency in your `build.gradle`
 ```
 implementation 'io.github.rajparsaniya:utility-core:1.0.0'
 ```
