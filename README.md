@@ -7,8 +7,11 @@ The Utility Core library provides a set of utility classes intended to streamlin
 
 ##### Installation
 
-* Apache Maven (Add the following dependency to your pom.xml)
-```
+Add **Utility Core** to your project using your preferred build tool:
+
+- **Maven**  
+  Add the following dependency to your `pom.xml`:
+  ```xml
 <dependency>
     <groupId>io.github.rajparsaniya</groupId>
     <artifactId>utility-core</artifactId>
