@@ -15,3 +15,7 @@ The Utility Core library provides a set of utility classes intended to streamlin
     <version>1.0.0</version>
 </dependency>
 ```
+* Gradle
+```
+implementation group: 'io.github.rajparsaniya', name: 'utility-core', version: '1.0.0'
+```
