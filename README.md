@@ -9,9 +9,9 @@ The Utility Core library provides a set of utility classes intended to streamlin
 
 Add **Utility Core** to your project using your preferred build tool:
 
-- **Maven**  
-  Add the following dependency to your `pom.xml`:
-  ```xml
+- **Maven**
+  Add the following dependency to your `pom.xml`  
+```
 <dependency>
     <groupId>io.github.rajparsaniya</groupId>
     <artifactId>utility-core</artifactId>
